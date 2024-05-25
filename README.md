@@ -15,7 +15,7 @@ Features
 * 🗺️ Embedded Google Maps for venue exploration
 
 How to View
-1. 📂 Clone the repository:bash  Copy code git clone https://github.com/your-username/digital-dreams-music-festival.git   
+1. 📂 Clone the repository: git clone https://github.com/your-username/digital-dreams-music-festival.git   
 2. 🌐 Open index.html in your web browser.
 
 Contribute
